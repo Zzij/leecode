@@ -1,4 +1,4 @@
-package com.zz.leecode;
+package com.zz.leecode.twoint;
 
 /**
  * @author zzj
